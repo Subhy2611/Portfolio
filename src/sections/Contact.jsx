@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 import TitleHeader from "../components/TitleHeader";
-import ContactExperience from "../components/models/Contact/ContactExperience.jsx";
+import ContactExperience from "../components/Models/Contact/ContactExperience.jsx";
 import emailjs from "@emailjs/browser";
 
 const Contact = () => {
