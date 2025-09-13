@@ -169,41 +169,40 @@ const techStackIcons = [
 const expCards = [
   {
     review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+      "Strengthened expertise in backend development with Node.js, Express, and MongoDB, while gaining experience in building scalable and secure APIs aligned with industry practices.",
     imgPath: "/images/oasis.png",
     logoPath: "/images/oasis.png",
     title: "Backend Developer",
-    date: "January 2023 - Present",
+    date: "January 2025 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Developed and maintained RESTful APIs using Node.js and Express.js, ensuring secure and efficient data flow.",
+      "Integrated MongoDB for database operations, handling CRUD functionality and schema design.",
+      "Worked on authentication and middleware, improving application security and request handling.",
     ],
   },
   {
     review:
-      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
+      "Enhanced skills in full stack development, learning to build scalable apps independently and apply best practices in modern web development.",
+    imgPath: "/images/Codsoftbg.png",
+    logoPath: "/images/Codsoftbg.png",
     title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    date: " January 2024 - March 2024",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Designed and developed frontend applications using HTML, CSS, JavaScript, and React.","Implemented backend functionality with Node.js, package management with NPM, and version control using Git/GitHub.",
+      "Submitted weekly project progress and maintained independent ownership of deliverable.",
     ],
   },
   {
     review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+      "Gained hands-on experience in the ML pipeline from raw data to visualization, and learned the importance of team collaboration in project success.",
     imgPath: "/images/Devtown.png",
     logoPath: "/images/Devtown.png",
     title: "Machine Learning Intern",
-    date: "March 2019 - May 2020",
+    date: "January 2023 - March 2023",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Performed data cleaning and preprocessing on structured datasets for consistency and accuracy.",
+      "Built and visualized ML models using Python (pandas, matplotlib, scikit-learn) in Jupyter Notebook.",
+      "Collaborated with a team of 5, sharing weekly updates with the mentor for progress tracking.",
     ],
   },
 ];
@@ -274,11 +273,6 @@ const socialImgs = [
     url: "https://www.instagram.com/_your_subhy_/",
     imgPath: "/images/insta.png",
   },
-  /*{
-    name: "fb",
-    url: "https://www.facebook.com/",
-    imgPath: "/images/fb.png",
-  },*/
   {
     name: "x",
     url: "https://x.com/SubhamGhos14421",
